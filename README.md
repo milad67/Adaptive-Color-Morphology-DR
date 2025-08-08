@@ -4,7 +4,7 @@ This repository contains the official C++ source code for the paper: **"Designin
 
 **Authors:** Milad Rostamian and Motahare Shekari
 
-![A showcase of our detection results](./assets/result_showcase.png)
+![A showcase of our detection results](./result_showcase.png)
 
 ---
 
