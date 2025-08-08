@@ -21,8 +21,8 @@ This project is implemented in C++ and depends on the OpenCV library.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/milad67/Your-Repo-Name.git](https://github.com/milad67/Your-Repo-Name.git)
-    cd Your-Repo-Name
+    git clone [https://github.com/milad67/Adaptive-Color-Morphology-DR.git](https://github.com/milad67/Adaptive-Color-Morphology-DR.git)
+    cd Adaptive-Color-Morphology-DR
     ```
 
 2.  **Dependencies:**
@@ -54,15 +54,15 @@ The output segmentation maps will be saved in the `/results` directory.
 ## Datasets
 
 The public datasets used in this study can be downloaded from their official sources:
-* **e-Ophtha:** [Link to dataset]
-* **ROC Database:** [Link to dataset]
+* **e-Ophtha:** `http://www.adcis.net/en/Download-Third-Party/E-Ophtha.html`
+* **ROC Database:** `https://roc.healthcare.uiowa.edu/`
 * **DDB1 Database:** [Link to dataset]
 
 ---
 
 ## Citation
 
-If you find this work useful in your research, please consider citing our paper:
+If you find this work useful in your research, please consider citing our paper. *(Remember to update this with your final publication details)*
 
 ```bibtex
 @article{Rostamian2025,
